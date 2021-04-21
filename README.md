@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently learning PHP and Laravel
+
+🔭 I’m currently working on SOLID
+
 <!--
 **Reinis/Reinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
