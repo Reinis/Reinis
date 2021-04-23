@@ -1,14 +1,16 @@
 ### Hi there 👋
 
+🌱 I’m currently learning PHP and Laravel
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&style=for-the-badge)](https://www.linkedin.com/in/reinis-danne)
 [![Gmail](https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=red&style=for-the-badge)](mailto:reinis.danne@gmail.com)
-
 
 ![Linux](https://img.shields.io/badge/-Linux-282C34?logo=Linux&style=for-the-badge)
 ![vim](https://img.shields.io/badge/-vim-282C34?logo=Vim&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-282C34?logo=git&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-282C34?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-282C34?style=for-the-badge&logo=gitlab)
+
 ![Python](https://img.shields.io/badge/Python-282C34?logo=python&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-282C34?logo=php&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-Laravel-282C34?logo=laravel&style=for-the-badge)
