@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi, I'm Reinis 👋
 
-🌱 I’m currently learning PHP and Laravel
+I'm interested in many topics of Open Source software and IT, driven by the need to understand how things work.
+
+Have learned and used Python for a many years. Right now, learning PHP and Web development in general.
+
+Constantly learning new things and enjoying every bit of it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&style=for-the-badge)](https://www.linkedin.com/in/reinis-danne)
 [![Gmail](https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=red&style=for-the-badge)](mailto:reinis.danne@gmail.com)
